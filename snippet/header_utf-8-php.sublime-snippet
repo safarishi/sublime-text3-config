@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[header('Content-type: text/html; charset=utf-8');]]></content>
+    <tabTrigger>hu</tabTrigger>
+    <description>php header utf-8</description>
+</snippet>
