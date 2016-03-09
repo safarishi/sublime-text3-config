@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[echo '$0';]]></content>
+    <content><![CDATA[echo '${0:string}';]]></content>
     <tabTrigger>eo</tabTrigger>
     <description>echo '...'</description>
 </snippet>
