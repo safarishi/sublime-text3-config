@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Align Arguments",
+		"Alignment",
+		"DocBlockr",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"TrailingSpaces"
+	]
+}
