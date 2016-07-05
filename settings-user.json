@@ -1,17 +1,22 @@
 {
-	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	// "font_face": "Courier New",
-	"font_size": 14,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 0,
+	"font_size": 16,
 	"highlight_line": true,
-	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"theme": "Seti.sublime-theme"
+	"vintage_ctrl_keys": true,
+	"theme": "Material-Theme.sublime-theme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"overlay_scroll_bars": "enabled",
+	"line_padding_top": 3,
+	"line_padding_bottom": 3,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"indent_guide_options": [ "draw_normal", "draw_active" ],   // Highlight active indent
+	"font_options": [ "gray_antialias" ],                       // For retina Mac
 }
